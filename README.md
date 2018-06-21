@@ -41,5 +41,6 @@ The theme's files are in theme/evaluation
 
 #### Plugin installation : 
 
-I installed : https://github.com/rainlab/blog-plugin 
+I installed : https://github.com/rainlab/blog-plugin . 
+Its a plugin providing better ressources to create a blog 
 
