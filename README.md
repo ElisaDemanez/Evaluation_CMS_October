@@ -1,3 +1,15 @@
+### Prerequisites : 
+
+October prerequisites : 
+
+    PHP version 7.0 or higher
+    PDO PHP Extension
+    cURL PHP Extension
+    OpenSSL PHP Extension
+    Mbstring PHP Library
+    ZipArchive PHP Library
+    GD PHP Library
+
 
 ### Installation
 
