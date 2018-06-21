@@ -39,3 +39,7 @@ The plugins files are in plugin/simplon/evaluation
 
 The theme's files are in theme/evaluation
 
+#### Plugin installation : 
+
+I installed : https://github.com/rainlab/blog-plugin 
+
