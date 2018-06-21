@@ -1,5 +1,7 @@
 ### Prerequisites : 
 
+    LAMP
+    
 October prerequisites : 
 
     PHP version 7.0 or higher
