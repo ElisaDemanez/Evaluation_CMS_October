@@ -24,7 +24,7 @@ sudo chmod -R 777 storage
   password : admin 
   
   
-  ### Check plugin : 
+### Check plugin : 
   
   
 - You can enable/ disable plugins from here :  
